@@ -18,4 +18,6 @@ Long: http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.1
 #Installation Instructions
 1) Install Forge
 
-2) Clone the repo into your mods directory and move the contents of the folder MOD_CONFIGS to the folder config (in the main minecraft folder)
+2) Download the ModPack Installer from here: https://hgcommunity.net/modpacks/KModPack_S1_1.7.bat
+
+3) Run It
