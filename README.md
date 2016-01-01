@@ -14,3 +14,8 @@ Ver: forge-1.7.10-10.13.4.1614-1.7.10
 Short: http://tinyurl.com/os9n6cv
 
 Long: http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-installer.jar
+
+#Installation Instructions
+1) Install Forge
+
+2) Clone the repo into your mods directory and move the contents of the folder MOD_CONFIGS to the folder config (in the main minecraft folder)
