@@ -24,7 +24,7 @@ Long: http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.1
 
 
 #Batch Script
-'''batch
+```batch
 @ECHO off
  ECHO "----------------------"
  ECHO " Knackrack's Mod Pack "
@@ -73,4 +73,4 @@ Long: http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.1
  
 PAUSE
 EXIT
-'''
+```
